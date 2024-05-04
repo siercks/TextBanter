@@ -1,0 +1,1 @@
+C:\Users\siercks\Documents\GitHub\TextBanter\TextBanter\TextBanter.csproj;x64
